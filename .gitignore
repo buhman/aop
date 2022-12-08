@@ -3,3 +3,6 @@
 !*.*
 *.o
 *.ppu
+*.err
+*.out
+*.dir
